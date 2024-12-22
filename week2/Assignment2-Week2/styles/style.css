@@ -1,0 +1,14 @@
+header{
+    color:red;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    font-size: x-large;
+    font-weight:900;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
