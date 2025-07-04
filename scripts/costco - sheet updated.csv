@@ -1,0 +1,140 @@
+product_id,brand,image,price,source,currency,description,product_url,product_title,price_available,additional_image,additional_description,image_url
+70f21efd-8a27-4c55-870f-391c02b9f88c,Olipop,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water//70f21efd-8a27-4c55-870f-391c02b9f88c.jpg,19.49,costco.com,USD,"Features:
+5 - Cream Soda
+5 - Classic Grape
+5 - Classic Root Beer
+12 fl oz Cans
+15 Total Cans",https://www.costco.com/olipop-variety-pack-12-fl-oz-15-count.product.4000351024.html,"Olipop, Variety Pack, 12 fl oz 15-count",19.49,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/70f21efd-8a27-4c55-870f-391c02b9f88c.jpg,Additional info for product 1,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/70f21efd-8a27-4c55-870f-391c02b9f88c.webp
+60c2f6a9-3907-4f1b-bc2f-d74dd633e1ac,Poppi,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/60c2f6a9-3907-4f1b-bc2f-d74dd633e1ac.webp,23.49,costco.com,USD,"Features:
+5 - Strawberry Lemon
+5 - Orange
+5 - Cherry Limeade
+12 fl oz Cans
+15 Total Cans",https://www.costco.com/poppi-soda-variety-pack-12-fl-oz-15-count.product.4000102483.html,"Poppi Soda, Variety Pack, 12 fl oz, 15-count",23.49,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/60c2f6a9-3907-4f1b-bc2f-d74dd633e1ac.webp,Additional info for product 2,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/60c2f6a9-3907-4f1b-bc2f-d74dd633e1ac.webp
+e2b3d9eb-b669-4514-b515-d5c1b5423c97,Alani,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/e2b3d9eb-b669-4514-b515-d5c1b5423c97.webp,26.99,costco.com,USD,"Features:
+6 - Orange Kiss
+6 - Cherry Twist
+6 - Pink Slush
+12 fl oz Cans
+18 Total Cans",https://www.costco.com/alani-nu-energy-drink-variety-pack-12-fl-oz-18-count.product.4000269836.html,"Alani Nu Energy Drink, Variety Pack, 12 fl oz, 18-count",26.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/e2b3d9eb-b669-4514-b515-d5c1b5423c97.webp,Additional info for product 3,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/e2b3d9eb-b669-4514-b515-d5c1b5423c97.webp
+3dfe569c-3f89-49f4-a868-b4521c5e6d4e,Vita Coco,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/3dfe569c-3f89-49f4-a868-b4521c5e6d4e.jpg,18.49,costco.com,USD,"Features:
+Coconut Water
+Replenish Lost Electrolytes
+Recharge with Vital Nutrients
+Hydrate with the Goodness of Coconuts
+Net Weight 199.8 fl. oz.",https://www.costco.com/vita-coco-coconut-water-111-fl-oz-18-count.product.100411697.html,"Vita Coco, Coconut Water, 11.1 fl oz, 18-Count",18.49,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/3dfe569c-3f89-49f4-a868-b4521c5e6d4e.jpg,Additional info for product 4,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/3dfe569c-3f89-49f4-a868-b4521c5e6d4e.webp
+ceb43c13-cdc1-452f-9092-83593e7645e9,Celsius,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/ceb43c13-cdc1-452f-9092-83593e7645e9.webp,18.99,costco.com,USD,"Features:
+6 - Peach Vibe
+6 - Tropical Vibe
+6 - Retro Vibe
+12 fl oz Cans
+18 Total Cans",https://www.costco.com/celsius-sparkling-energy-drink-variety-pack-12-fl-oz-18-count.product.4000361369.html,"Celsius Sparkling Energy Drink, Variety Pack, 12 fl oz, 18-count",18.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/ceb43c13-cdc1-452f-9092-83593e7645e9.webp,Additional info for product 5,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/ceb43c13-cdc1-452f-9092-83593e7645e9.webp
+39069aef-0d14-4bfa-b28c-9127ff71dd13,Pure Life,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/39069aef-0d14-4bfa-b28c-9127ff71dd13.webp,17.99,costco.com,USD,"Features:
+Purified Water
+8 fl oz Bottles
+24 Total Bottles",https://www.costco.com/pure-life-purified-water-8-fl-oz-24-count.product.4000213257.html,"Pure Life Purified Water, 8 fl oz, 24-count",17.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/39069aef-0d14-4bfa-b28c-9127ff71dd13.webp,Additional info for product 6,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/39069aef-0d14-4bfa-b28c-9127ff71dd13.webp
+f0254e0a-301a-4cb6-8476-4f02ec428d80,Pure Life,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/f0254e0a-301a-4cb6-8476-4f02ec428d80.webp,4.99,costco.com,USD,"Features:
+Purified Water
+8 fl oz Bottles
+24 Total Bottles",https://www.costco.com/pure-life-purified-water-8-fl-oz-24-count.product.4000213257.html,"Pure Life Purified Water, 8 fl oz, 24-count",4.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/f0254e0a-301a-4cb6-8476-4f02ec428d80.webp,Additional info for product 7,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/f0254e0a-301a-4cb6-8476-4f02ec428d80.webp
+34874281-04fa-467a-b44e-64e0f2e60d1b,Kirkland Signature,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/34874281-04fa-467a-b44e-64e0f2e60d1b.jpg,439.99,costco.com,USD,"Features:
+Business Members*
+Click the Business Delivery Tab for Local Delivery Options
+Zero Calories
+No Artificial Color or Flavors
+Minerals Added for a Pure Refreshing Taste",https://www.costco.com/kirkland-signature-bottled-water-169-fl-oz-40-count-48-case-pallet.product.100344425.html,"Kirkland Signature Bottled Water 16.9 fl oz, 40-count, 48 Case Pallet",439.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/34874281-04fa-467a-b44e-64e0f2e60d1b.jpg,Additional info for product 8,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/34874281-04fa-467a-b44e-64e0f2e60d1b.jpg
+39da2a26-5320-4ca9-a216-efb83e08a400,Kirkland Signature,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/39da2a26-5320-4ca9-a216-efb83e08a400.webp,12.99,costco.com,USD,"Features:
+Kosher
+USDA Organic
+No Sugar Added
+Not from Concentrate
+100% Juice:",https://www.costco.com/kirkland-signature-organic-coconut-water-111-fl-oz-12-count.product.100643804.html,"Kirkland Signature, Organic Coconut Water, 11.1 fl oz, 12-count",12.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/39da2a26-5320-4ca9-a216-efb83e08a400.webp,Additional info for product 9,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/39da2a26-5320-4ca9-a216-efb83e08a400.webp
+cdb956b6-8a9b-45e3-b863-a44f61bb29af,Coca-Cola,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/cdb956b6-8a9b-45e3-b863-a44f61bb29af.jpg,20.99,costco.com,USD,"Features:
+Original
+7.5 fl oz Cans
+30 Total Cans
+90 Calories per Can",https://www.costco.com/coca-cola-mini-75-fl-oz-30-count.product.100735424.html,"Coca-Cola Mini, 7.5 fl oz, 30-count",20.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/cdb956b6-8a9b-45e3-b863-a44f61bb29af.jpg,Additional info for product 10,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/cdb956b6-8a9b-45e3-b863-a44f61bb29af.webp
+a5a69986-c74a-40fa-b6be-c528fcb699bc,Coca-Cola,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/a5a69986-c74a-40fa-b6be-c528fcb699bc.webp,20.99,costco.com,USD,"Features:
+10 - Sprite Lemon-Lime
+10 - Coca-Cola Cherry
+10 - Fanta Orange
+7.5 fl oz Cans
+30 Total Cans",https://www.costco.com/coca-cola-mini-variety-pack-75-fl-oz-30-count.product.100787633.html,"Coca-Cola Mini, Variety Pack, 7.5 fl oz, 30-count",20.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/a5a69986-c74a-40fa-b6be-c528fcb699bc.webp,Additional info for product 11,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/a5a69986-c74a-40fa-b6be-c528fcb699bc.webp
+9631419a-9ab4-4f28-ae12-20113cb94b66,La Croix,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/9631419a-9ab4-4f28-ae12-20113cb94b66.jpg,11.39,costco.com,USD,"Features:
+12 - Lime
+6 - Lemon
+6 - Grapefruit
+12 fl oz Cans
+24 Total Cans",https://www.costco.com/lacroix-sparkling-water-variety-pack-12-fl-oz-24-count.product.100381464.html,"LaCroix Sparkling Water, Variety Pack, 12 fl oz, 24-count",11.39,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/9631419a-9ab4-4f28-ae12-20113cb94b66.jpg,Additional info for product 12,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/9631419a-9ab4-4f28-ae12-20113cb94b66.webp
+1b7d2ffa-108d-4e11-943d-312974365929,Waterloo,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/1b7d2ffa-108d-4e11-943d-312974365929.webp,11.39,costco.com,USD,"Features:
+8 - Lemon-Lime
+8 - Raspberry Nectarine
+8 - Blackberry Lemonade
+12 fl oz Cans
+24 Total Cans",https://www.costco.com/waterloo-sparkling-water-variety-pack-12-fl-oz-24-count.product.4000330314.html,"Waterloo Sparkling Water, Variety Pack, 12 fl oz, 24-count",11.39,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/1b7d2ffa-108d-4e11-943d-312974365929.webp,Additional info for product 13,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/1b7d2ffa-108d-4e11-943d-312974365929.webp
+5dc15357-62d8-4812-8ed7-0fa55ea701b0,Poppi,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/5dc15357-62d8-4812-8ed7-0fa55ea701b0.webp,23.49,costco.com,USD,"Features:
+5 - Lemon Lime
+5 - Orange Cream
+5 - Watermelon
+12 fl oz Cans
+15 Total Cans",https://www.costco.com/poppi-soda-endless-summer-variety-pack-12-fl-oz-15-count.product.4000368228.html,"Poppi Soda Endless Summer, Variety Pack, 12 fl oz, 15-count",23.49,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/5dc15357-62d8-4812-8ed7-0fa55ea701b0.webp,Additional info for product 14,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/5dc15357-62d8-4812-8ed7-0fa55ea701b0.webp
+f564042e-9c79-47f8-afd8-1a490f93ad40,Olipop,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/f564042e-9c79-47f8-afd8-1a490f93ad40.jpg,54.99,costco.com,USD,"Features:
+24 count (12 oz each)
+Prebiotics, plant fiber, and botanicals to support digestive health
+Variety pack: 6-Root Beer, 6-Vintage Cola, 6-Classic Grape, 6-Orange Squeeze
+No artificial sweeteners, flavors, or preservatives
+Non-GMO Project Verified, Gluten-free, Vegan, Keto & Paleo",https://www.costco.com/olipop-12-oz-prebiotics-soda-variety-pack-24-count.product.4000181761.html,"Olipop 12 oz Prebiotics Soda Variety Pack, 24 Count",54.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/f564042e-9c79-47f8-afd8-1a490f93ad40.jpg,Additional info for product 15,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/f564042e-9c79-47f8-afd8-1a490f93ad40.webp
+4434074c-ade6-467b-a521-9731c8d349cf,Capri Sun,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/4434074c-ade6-467b-a521-9731c8d349cf.webp,11.49,costco.com,USD,"Features:
+Made From Concentrate
+No Artificial Colors
+No Preservatives
+No Added Sugar
+40-count",https://www.costco.com/capri-sun-100-juice-variety-pack-6-fl-oz-40-count.product.100371255.html,"Capri Sun, 100% Juice, Variety Pack, 6 fl oz, 40-count",11.49,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/4434074c-ade6-467b-a521-9731c8d349cf.webp,Additional info for product 16,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/4434074c-ade6-467b-a521-9731c8d349cf.webp
+ee30f035-12c3-4597-88d4-5010653236e0,Kirkland Signature,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/ee30f035-12c3-4597-88d4-5010653236e0.webp,23.49,costco.com,USD,"Features:
+No Sugar Added
+Not From Concentrate
+100% Juice
+USDA Organic
+Kosher",https://www.costco.com/kirkland-signature-organic-coconut-water-338-fl-oz-9-count.product.100841513.html,"Kirkland Signature, Organic Coconut Water, 33.8 fl oz, 9-count",23.49,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/ee30f035-12c3-4597-88d4-5010653236e0.webp,Additional info for product 17,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/ee30f035-12c3-4597-88d4-5010653236e0.webp
+4ab3559e-9851-4078-8e12-26ab8fb6e5ce,Gatorade,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/4ab3559e-9851-4078-8e12-26ab8fb6e5ce.webp,18.99,costco.com,USD,"Features:
+Variety Pack
+80 Calories per Bottle
+12 - Lemon-Lime
+8 - Fruit Punch
+8 - Orange",https://www.costco.com/gatorade-thirst-quencher-core-variety-pack-12-fl-oz-28-count.product.100709443.html,"Gatorade Thirst Quencher, Core Variety Pack, 12 fl oz, 28-count",18.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/4ab3559e-9851-4078-8e12-26ab8fb6e5ce.webp,Additional info for product 18,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/4ab3559e-9851-4078-8e12-26ab8fb6e5ce.webp
+1865dcc7-5e66-4013-a366-77cd716846e4,Poppi,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/1865dcc7-5e66-4013-a366-77cd716846e4.jpg,23.49,costco.com,USD,"Features:
+5 - Doc Pop
+5 - Wild Berry
+5 - Lemon Lime
+12 fl oz Cans
+15 Total Cans",https://www.costco.com/poppi-soda-variety-pack-12-fl-oz-15-count.product.4000295363.html,"Poppi Soda, Variety Pack, 12 fl oz, 15-count",23.49,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/1865dcc7-5e66-4013-a366-77cd716846e4.jpg,Additional info for product 19,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/1865dcc7-5e66-4013-a366-77cd716846e4.webp
+071c551e-8405-4c2a-83c2-6df643385091,San Pellegrino,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/071c551e-8405-4c2a-83c2-6df643385091.webp,23.99,costco.com,USD,"Features:
+12 - Aranciata Rossa (Orange & Blood Orange)
+12 - Limonata (Lemon)
+11.15 fl oz Cans
+24 Total Cans",https://www.costco.com/san-pellegrino-italian-sparkling-drink-variety-pack-1115-fl-oz-24-count.product.4000151067.html,"San Pellegrino Italian Sparkling Drink, Variety Pack, 11.15 fl oz, 24-count",23.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/071c551e-8405-4c2a-83c2-6df643385091.webp,Additional info for product 20,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/071c551e-8405-4c2a-83c2-6df643385091.webp
+2de74dcf-8216-4d71-b359-b848d7d026d4,Celsius,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/2de74dcf-8216-4d71-b359-b848d7d026d4.webp,19.99,costco.com,USD,"Features:
+10 - Dragonfruit Lime
+10 - Berry
+10 - Strawberry Mango
+30 Total Powder Sticks
+Zero Sugar",https://www.costco.com/celsius-essential-energy-powder-sticks-variety-pack-30-count.product.4000315378.html,"Celsius Essential Energy Powder Sticks, Variety Pack, 30-count",19.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/2de74dcf-8216-4d71-b359-b848d7d026d4.webp,Additional info for product 21,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/2de74dcf-8216-4d71-b359-b848d7d026d4.webp
+d27b94b4-85f7-4ae5-9e29-f9e633ab0ab0,Bloom,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/d27b94b4-85f7-4ae5-9e29-f9e633ab0ab0.jpg,28.99,costco.com,USD,"Features:
+6 - Peach Mango
+6 - Raspberry Lemon
+6 - Strawberry Watermelon
+Zero Sugar
+Natural Energy",https://www.costco.com/bloom-sparkling-energy-drink-variety-pack-12-fl-oz-18-count.product.4000336724.html,"Bloom Sparkling Energy Drink, Variety Pack, 12 fl oz, 18-count",28.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/d27b94b4-85f7-4ae5-9e29-f9e633ab0ab0.jpg,Additional info for product 22,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/d27b94b4-85f7-4ae5-9e29-f9e633ab0ab0.webp
+3e702a00-8735-4403-b5a2-aa768e09fc86,Perrier,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/3e702a00-8735-4403-b5a2-aa768e09fc86.webp,25.99,costco.com,USD,"Features:
+Unflavored
+16.9 fl oz Bottles
+24 Total Bottles
+0 Calories",https://www.costco.com/maison-perrier-sparkling-water-169-fl-oz-24-count.product.4000234662.html,"Maison Perrier Sparkling Water, 16.9 fl oz, 24-count",25.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/3e702a00-8735-4403-b5a2-aa768e09fc86.webp,Additional info for product 23,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/3e702a00-8735-4403-b5a2-aa768e09fc86.webp
+f81f6855-cf46-4fb8-9abb-242f18cddbc0,Pepsi,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/f81f6855-cf46-4fb8-9abb-242f18cddbc0.webp,18.99,costco.com,USD,"Features:
+Original
+7.5 fl oz Cans
+30 Total Cans
+100 Calories per Can",https://www.costco.com/pepsi-mini-75-fl-oz-30-count.product.4000023856.html,"Pepsi Mini, 7.5 fl oz, 30-count",18.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/f81f6855-cf46-4fb8-9abb-242f18cddbc0.webp,Additional info for product 24,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/f81f6855-cf46-4fb8-9abb-242f18cddbc0.webp
+3f303eb9-d70d-4bb3-b87c-df3c54188e9c,San Pellegrino,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/3f303eb9-d70d-4bb3-b87c-df3c54188e9c.webp,19.99,costco.com,USD,"Features:
+Zero Calories
+Unflavored Original",https://www.costco.com/san-pellegrino-sparkling-natural-mineral-water-unflavored-1115-fl-oz-24-count.product.100639975.html,"San Pellegrino Sparkling Natural Mineral Water, Unflavored, 11.15 fl oz, 24-count",19.99,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/3f303eb9-d70d-4bb3-b87c-df3c54188e9c.webp,Additional info for product 25,https://rpmzykoxqnbozgdoqbpc.supabase.co/storage/v1/object/public/costco-beverages-and-water/3f303eb9-d70d-4bb3-b87c-df3c54188e9c.webp
